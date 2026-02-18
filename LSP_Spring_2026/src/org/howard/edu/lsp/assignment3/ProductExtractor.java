@@ -3,7 +3,7 @@
  * @param args
  */
 
-package org.howard.edu.lsp.assigment3;
+package org.howard.edu.lsp.assignment3;
 
 
 import java.io.BufferedReader;

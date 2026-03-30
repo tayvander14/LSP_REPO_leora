@@ -1,4 +1,4 @@
-For Question #1, I also used ChatGPT. Below is the complete transcript: 
+For Question #1, I used ChatGPT. Below is the complete transcript: 
 
 I am working on my midterm for Large Scale Programming. Here is  question #1.
 

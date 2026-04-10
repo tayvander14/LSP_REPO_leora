@@ -1,4 +1,4 @@
-package org.howard.edu.lsp.assigment5;
+package org.howard.edu.lsp.assignment5;
 
 public class Driver {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.howard.edu.lsp.assigment5;
+package org.howard.edu.lsp.assignment6;
 
 import java.util.ArrayList;
 import java.util.Collections;
